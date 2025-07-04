@@ -2,7 +2,6 @@
 
 A curated collection of high-quality aesthetic wallpapers for all devices, handpicked to bring beauty and style to your screens.
 
-![Wallpaper Preview](https://placehold.co/1920x1080 "Aesthetic pastel sunset gradient with minimal cloud formations")
 
 ## ✨ Collection Highlights
 
@@ -37,12 +36,6 @@ Each collection follows carefully selected color schemes:
 - Dark Mode: Deep blues, blacks, accents
 - Abstract: Vibrant gradients
 
-## 🌟 Featured Wallpapers
-
-![Nature Example](https://placehold.co/800x450 "Misty mountain landscape at dawn with soft pink and blue tones")
-![Minimalist Example](https://placehold.co/800x450 "Geometric pattern in blush pink and cream colors")
-![Abstract Example](https://placehold.co/800x450 "Fluid acrylic ink swirls in teal and gold")
-
 ## 📜 License
 
 All wallpapers are free for personal use. Commercial use requires permission.
@@ -57,8 +50,6 @@ For requests or inquiries: your-email@example.com
 # Aesthetic Wallpaper Collections
 
 A curated collection of high-quality aesthetic wallpapers for all devices, handpicked to bring beauty and style to your screens.
-
-![Wallpaper Preview](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/f2e598ef-9d4e-4c0b-b3ca-7a6f4a15dfac.png "Aesthetic pastel sunset gradient with minimal cloud formations")
 
 ## ✨ Collection Highlights
 
@@ -91,12 +82,6 @@ Each collection follows carefully selected color schemes:
 - Vintage: Sepia, muted tones
 - Dark Mode: Deep blues, blacks, accents
 - Abstract: Vibrant gradients
-
-## 🌟 Featured Wallpapers
-
-![Nature Example](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/6ef5da27-28e6-4a67-8390-025d0e864459.png "Misty mountain landscape at dawn with soft pink and blue tones")
-![Minimalist Example](https://placehold.co/800x450 "Geometric pattern in blush pink and cream colors")
-![Abstract Example](https://placehold.co/800x450 "Fluid acrylic ink swirls in teal and gold")
 
 ## 📜 License
 
